@@ -4,8 +4,8 @@
 
 <div align="center">
   <a href="https://github.com/DEV-Klevertton">
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=DEV-Klevertton&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEV-Klevertton&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=DEV-Klevertton&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEV-Klevertton&layout=compact&langs_count=7&theme=codeSTACKr"/>
 </div>
 <div style="display: inline_block"><br>
   
